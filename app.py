@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="Credit Card Fraud Detection", layout="centered")
 
 # Access Control (Simple Password) 
-PASSWORD = "secret"  
+PASSWORD = "mysecret"  
 
 if "authenticated" not in st.session_state:
     st.session_state.authenticated = False
