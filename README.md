@@ -58,7 +58,7 @@ This project is a Streamlit-based web application that detects fraudulent credit
     streamlit run app.py
 
 ## 🔐 Access
-**Default password**: secret (It can be changed in app.py)
+**Default password**: mysecret (It can be changed in app.py)
 
 ## 📊 Dataset
 
